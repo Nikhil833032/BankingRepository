@@ -1,0 +1,12 @@
+D:\VS studio\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.deps.json
+D:\VS studio\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.dll
+D:\VS studio\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\ref\BankingLibrary.dll
+D:\VS studio\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.pdb
+D:\VS studio\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.csproj.AssemblyReference.cache
+D:\VS studio\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS studio\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfoInputs.cache
+D:\VS studio\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfo.cs
+D:\VS studio\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.csproj.CoreCompileInputs.cache
+D:\VS studio\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.dll
+D:\VS studio\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\ref\BankingLibrary.dll
+D:\VS studio\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.pdb
